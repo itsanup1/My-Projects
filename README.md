@@ -10,4 +10,6 @@ In This Calculator You Can Find Areas And Parameters Too
 And Also Can Find Tables OF Any Number Till Any Multiple.
 
 And Also Some Minor Equestions You Can Do In The Calculator,
+You Can Help Me By Improving Some Bugs And Improving My Code,
+
  
