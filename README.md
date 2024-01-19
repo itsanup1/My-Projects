@@ -1,15 +1,6 @@
-# My-Calculator
-Just Trying My First Project
-My Project Contain Code For A Calculator.
-Which Have Various Unique Functions Which 
-
-Can Help Peoples To Solve Equetions Even Easier 
-
-In This Calculator You Can Find Areas And Parameters Too 
-
-And Also Can Find Tables OF Any Number Till Any Multiple.
-
-And Also Some Minor Equestions You Can Do In The Calculator,
-You Can Help Me By Improving Some Bugs And Improving My Code,
-
- 
+#My_Projects
+   
+   This Repository contains all my projects I have created while learning python if anyone who can add some improvements can fork any project or you can try my code by download or copying it.
+   I will try my best to add your pull request as soon as possible. And add it to the main files.
+   So enjoy surfing on this repository.
+   
